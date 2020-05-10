@@ -1,4 +1,4 @@
-# Course Title: Front-End Web Development with React
+# Course Title: Multiplatform Mobile App Development with React Native
 
 <hr>
 
